@@ -12,12 +12,12 @@ Getting your feet wet with HTML and CSS
     - The content of the website should be formated like the following:
 
 ---
-# `[your name]'s First website!`
-## `Created on [today's date]`
+# [your name]'s First website!
+## Created on [today's date]
 
-`[start of paragraph]
+[start of paragraph]
     	Hello World! This is my first website and I am very excited. I've always wanted to learn how websites work and I'm well on my way to finding out!
-[end of paragraph]`
+[end of paragraph]
 
 ---
 
