@@ -9,7 +9,7 @@ Getting your feet wet with HTML and CSS
  - In this repository there is a file named `index.html`. This will be the file that contains the HTML of your one page website. You are tasked with adding the following content to the empty website:
    - The tab of the web page should say: "[your name]'s first website", i.e. my Chrome tab would say: "Kay's first website"
    	- Think about the tags that you should use for each piece of content
-    - The content of the website should be formated like the following:
+    - The content of the website should be formated like the following (ignore the horizontal rules):
 
 ---
 # [your name]'s First website!
