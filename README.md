@@ -4,6 +4,11 @@ Getting your feet wet with HTML and CSS
 ## In this lab you will accomplish the following:
  - Create a one page website using HTML
  - Style your website with CSS
+ 
+## Load up your vagrant box
+ - Open a new terminal
+ - Type the command ```cd i253``` to open the i23 folder
+ - Type ```vagrant ssh``` to log into your box
 
 ## Create a one page website
  - In this repository there is a file named `index.html`. This will be the file that contains the HTML of your one page website. You are tasked with adding the following content to the empty website:
