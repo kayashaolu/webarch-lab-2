@@ -12,7 +12,9 @@ Getting your feet wet with HTML and CSS
  - Navigate to ```cd /vagrant``` to change directory to your synced vagrant folder
  - Clone your repo in this directory
  
-Note: Now you should have created a webarch-lab-1-[username] folder inside this vagrant folder
+Note \#1: Now you should have created a webarch-lab-1-\[username\] folder inside this vagrant folder
+
+Note \#2: Note that now that you cloned your repo in the ```/vagrant``` folder, your files should be synced to your host computer. So now if you go to the folder that contains the Vagrantfile that you created last week, you should see a webarch-lab1-\[username\] folder there. This is the same folder that was cloned in your vagrant box. So you can edit files here using tools like [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io) or any text editor you choose.
 
 ## Create a one page website
  - In this repository there is a file named `index.html`. This will be the file that contains the HTML of your one page website. You are tasked with adding the following content to the empty website:
