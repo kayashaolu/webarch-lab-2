@@ -9,6 +9,10 @@ Getting your feet wet with HTML and CSS
  - Open a new terminal
  - Type the command ```cd i253``` to open the i23 folder
  - Type ```vagrant ssh``` to log into your box
+ - Navigate to ```cd /vagrant``` to change directory to your synced vagrant folder
+ - Clone your repo in this directory
+ 
+Note: Now you should have created a webarch-lab-1-[username] folder inside this vagrant folder
 
 ## Create a one page website
  - In this repository there is a file named `index.html`. This will be the file that contains the HTML of your one page website. You are tasked with adding the following content to the empty website:
