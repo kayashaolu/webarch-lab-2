@@ -7,7 +7,7 @@ Getting your feet wet with HTML and CSS
  
 ## Load up your vagrant box
  - Open a new terminal
- - Type the command ```cd i253``` to open the i23 folder
+ - Type the command ```cd i253``` to open the i253 folder
  - Type ```vagrant ssh``` to log into your box
  - Navigate to ```cd /vagrant``` to change directory to your synced vagrant folder
  - Clone your repo in this directory
